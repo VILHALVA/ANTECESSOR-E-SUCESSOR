@@ -24,7 +24,7 @@ Este é um aplicativo simples de cálculo do antecessor e sucessor de um número
    4. Se desejar fazer outro cálculo, você pode clicar no botão "Voltar" para retornar à página de entrada de número e inserir um novo número.
    
 ## CREDITOS:
-* [PROJETO CRIADO PARA O CURSO DE PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
+- [PROJETO CRIADO PARA O CURSO DE PHP](https://github.com/VILHALVA/CURSO-DE-PHP)
 - [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 
 
