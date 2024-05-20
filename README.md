@@ -15,7 +15,7 @@ Este é um aplicativo simples de cálculo do antecessor e sucessor de um número
 ## EXECUTANDO O PROJETO:
 1. **Executando o Aplicativo:**
    - Coloque os arquivos em um servidor web compatível com PHP (por exemplo, XAMPP, WAMP, LAMP).
-   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/index.php`.
+   - Acesse o formulário no navegador visitando `http://localhost/CODIGO/index.html`.
 
 2. **Interagir com o Projeto:**
    1. Insira um número no campo fornecido.
